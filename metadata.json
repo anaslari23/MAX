@@ -1,0 +1,8 @@
+{
+  "name": "MAX - Local JARVIS Assistant",
+  "description": "A futuristic, voice-first AI assistant inspired by JARVIS, featuring local reasoning and system monitoring.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
